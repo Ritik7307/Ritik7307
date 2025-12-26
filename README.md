@@ -17,16 +17,22 @@ Focused on solving real problems, not just completing projects.
 
 ---
 
+
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik7307&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Ritik7307&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik7307&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik7307&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Ritik7307&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik7307&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
