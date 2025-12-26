@@ -1,77 +1,120 @@
-#  Hi, I'm Ritik Prajapati
+Hi, I'm Ritik Prajapati
+Maths & Computing (MnC) Undergraduate | AI & Full Stack Developer
 
- **Maths & Computing (MnC) Undergraduate | AI & Full Stack Developer**  
- RGIPT | Building real-world products with code
+RGIPT | Building real-world products with code
 
----
+About Me
 
-##  About Me
+I am a builder-first developer who enjoys turning ideas into practical, scalable products.
 
--  Currently working on **AI Automations** and real-world web projects  
--  Learning **Machine Learning, Deep Learning, NLP & MLOps**  
--  Strong interest in **Full Stack Development & AI systems**
--  Love building products, not just projects
+Currently working on AI automations and production-level web applications
 
----
+Learning Machine Learning, Deep Learning, NLP, and MLOps
 
-##  Tech Stack
+Strong interest in Full Stack Development (MERN) and AI-driven systems
 
-**Languages**
-- C++, Python, JavaScript
+Focused on solving real problems, not just completing projects
 
-**Frontend**
-- React, Tailwind CSS, HTML, CSS
+“Projects teach what courses can’t.”
 
-**Backend**
-- Node.js, Express.js, Firebase
+Tech Stack
+Languages
 
-**Databases**
-- MongoDB, SQLite
+C++
 
-**AI / ML**
-- Python, NumPy, Pandas, Scikit-learn (learning DL & NLP)
+Python
 
-**Tools**
-- Git, GitHub, Vercel, Hostinger
+JavaScript
 
----
+Frontend
 
-## 🌐 Socials
+React
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ritik-prajapati-942799316/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:24mc3040@rgipt.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://personal-portfolio-ritik.vercel.app)
+Tailwind CSS
 
----
+HTML
 
-##  GitHub Stats
+CSS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritik7307&show_icons=true&theme=dark)
+Backend
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ritik7307&theme=dark)
+Node.js
 
----
+Express.js
 
-##  Most Used Languages
+Firebase
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik7307&layout=compact&theme=dark)
+Databases
 
----
+MongoDB
 
-##  Featured Projects
+SQLite
 
-- **Craving Hub** – Full Stack food ordering platform  
-- **BluEyes** – Portfolio platform for photographers to get clients  
-- **Personal Portfolio** – Stranger Things themed developer portfolio  
+AI / ML
 
-  More projects coming soon...
+Python
 
----
+NumPy
 
-##  Quote I Believe In
+Pandas
 
-> *"Build things that solve problems. Everything else follows."*
+Scikit-learn
 
----
+Currently learning Deep Learning and NLP
 
- **Feel free to explore my repositories and connect with me!**
+Tools & Deployment
+
+Git
+
+GitHub
+
+Vercel
+
+Hostinger
+
+Featured Projects
+Craving Hub
+
+Full Stack food ordering platform
+
+User authentication and order management
+
+Email notifications for order confirmation
+
+Backend built with Node.js and SQLite
+
+BluEyes
+
+Portfolio platform for photographers
+
+Helps photographers showcase work and receive client inquiries
+
+Clean UI with responsive design
+
+Deployed on Vercel
+
+Personal Portfolio
+
+Stranger Things themed developer portfolio
+
+Interactive UI and animations
+
+Showcases projects, skills, and contact details
+
+More projects coming soon.
+
+GitHub Stats
+
+Most Used Languages
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ritik-prajapati-942799316/
+
+Email: 24mc3040@rgipt.ac.in
+
+Portfolio: https://personal-portfolio-ritik.vercel.app
+
+Philosophy
+
+“Build things that solve problems. Everything else follows.”
