@@ -1,95 +1,61 @@
-Hi, I'm Ritik Prajapati
+Hi, I’m Ritik Prajapati
 Maths & Computing (MnC) Undergraduate | AI & Full Stack Developer
 
-RGIPT | Building real-world products with code
+RGIPT • Building real-world, scalable products with code
 
 About Me
 
-I am a builder-first developer who enjoys turning ideas into practical, scalable products.
+Builder-first developer focused on creating production-ready systems rather than demo projects.
 
-Currently working on AI automations and production-level web applications
+Working on AI automations and real-world web applications
 
 Learning Machine Learning, Deep Learning, NLP, and MLOps
 
-Strong interest in Full Stack Development (MERN) and AI-driven systems
+Strong interest in Full Stack (MERN) and AI-driven systems
 
-Focused on solving real problems, not just completing projects
+Focused on impact, scalability, and clean architecture
 
 “Projects teach what courses can’t.”
 
 Tech Stack
+
 Languages
-
-C++
-
-Python
-
-JavaScript
+C++ • Python • JavaScript
 
 Frontend
-
-React
-
-Tailwind CSS
-
-HTML
-
-CSS
+React • Tailwind CSS • HTML • CSS
 
 Backend
-
-Node.js
-
-Express.js
-
-Firebase
+Node.js • Express.js • Firebase
 
 Databases
-
-MongoDB
-
-SQLite
+MongoDB • SQLite
 
 AI / ML
-
-Python
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
+Python • NumPy • Pandas • Scikit-learn
 Currently learning Deep Learning and NLP
 
 Tools & Deployment
-
-Git
-
-GitHub
-
-Vercel
-
-Hostinger
+Git • GitHub • Vercel • Hostinger
 
 Featured Projects
 Craving Hub
 
-Full Stack food ordering platform
+Full-stack food ordering platform
 
-User authentication and order management
+Authentication and order management
 
-Email notifications for order confirmation
+Automated email notifications
 
-Backend built with Node.js and SQLite
+Backend using Node.js and SQLite
 
 BluEyes
 
 Portfolio platform for photographers
 
-Helps photographers showcase work and receive client inquiries
+Client discovery and inquiry system
 
-Clean UI with responsive design
+Responsive UI
 
 Deployed on Vercel
 
@@ -99,11 +65,14 @@ Stranger Things themed developer portfolio
 
 Interactive UI and animations
 
-Showcases projects, skills, and contact details
+Showcases projects, skills, and contact information
 
 More projects coming soon.
 
-GitHub Stats
+GitHub Performance
+Overview
+
+Contribution Streak
 
 Most Used Languages
 
