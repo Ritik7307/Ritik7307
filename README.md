@@ -1,6 +1,6 @@
 # Ritik Prajapati
 
-### Maths & Computing (MnC) Undergraduate | AI & Full Stack Developer  
+### Maths & Computing (MnC) Undergraduate | AI |ML & Full Stack Developer  
 RGIPT • Building real-world products with code
 
 ---
